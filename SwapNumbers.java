@@ -1,9 +1,9 @@
 package java;
  
 public class SwapNumbers {
-
+   
     public static void main(String[] args) {
-
+        System.out.println("welcome to java");
         float first = 12.0f, second = 24.5f;
 
         System.out.println("--Before swap--");
